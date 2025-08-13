@@ -25,9 +25,15 @@ A web-based movie recommendation system built using ReactJS. This application al
 
 📂 Folder Structure:
 Movie_recommendation/
-• public/
-• src/
-  • components/
+├── public/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── App.js
+│ ├── index.js
+│ └── App.css
+├── package.json
+└── README.md
   • pages/
   • App.js
   • index.js
