@@ -1,12 +1,36 @@
-# React + Vite
+🎬 Movie Recommendation System
+A web-based movie recommendation system built using ReactJS. This application allows users to search for movies, view details, and get personalized recommendations based on their preferences.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+✨ Features:
 
-Currently, two official plugins are available:
+🔍 Movie Search – Search movies by title using an API
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📝 Movie Details – View release date, genre, ratings, and plot summary
 
-## Expanding the ESLint configuration
+🎯 Recommendations – Get suggestions based on selected movies
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Responsive UI – Works on all devices
+
+⚡ Fast & Interactive – Smooth experience with ReactJS
+
+🛠 Tech Stack:
+
+💻 Frontend: ReactJS, HTML5, CSS3, JavaScript
+
+🌐 API: OMDb API or TMDb API (whichever is used)
+
+🎨 Styling: CSS / TailwindCSS / Bootstrap
+
+📦 State Management: React Hooks (useState, useEffect)
+
+📂 Folder Structure:
+Movie_recommendation/
+• public/
+• src/
+  • components/
+  • pages/
+  • App.js
+  • index.js
+  • App.css
+• package.json
+• README.md
